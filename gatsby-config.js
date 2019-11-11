@@ -7,31 +7,23 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `JJ Writes`,
+    description: `Personal Blog - Jatin Rohilla`,
     copyrights: '',
-    author: `@panr`,
+    author: `@jatin69`,
     logo: {
-      src: '',
-      alt: '',
+      src: 'https://raw.githubusercontent.com/jatin69/jjwritestech/master/content/assets/site-icon.png',
+      alt: 'JJ',
     },
-    logoText: 'hello friend',
-    defaultTheme: 'dark',
-    postsPerPage: 5,
-    showMenuItems: 2,
-    menuMoreText: 'Show more',
+    logoText: 'JJ Writes',
+    defaultTheme: 'light',
+    postsPerPage: 10,
+    showMenuItems: 3,
+    menuMoreText: 'More',
     mainMenu: [
       {
         title: 'About',
         path: '/about',
-      },
-      {
-        title: 'Showcase',
-        path: '/showcase',
-      },
-      {
-        title: 'Example',
-        path: '/example',
       },
     ],
   },
@@ -114,13 +106,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-hello-friend`,
-        short_name: `hello-friend`,
+        name: `JJ Writes`,
+        short_name: `JJ Writes`,
         start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
-        icon: `src/images/hello-icon.png`,
+        icon: `static/images/site-icon.png`,
       },
     },
   ],
