@@ -12,8 +12,8 @@ module.exports = {
     copyrights: '',
     author: `@jatin69`,
     logo: {
-      src: 'https://raw.githubusercontent.com/jatin69/jjwritestech/master/content/assets/site-icon.png',
-      alt: 'JJ',
+      src: '',
+      alt: 'jj writes',
     },
     logoText: 'JJ Writes',
     defaultTheme: 'light',
