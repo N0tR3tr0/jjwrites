@@ -3,7 +3,7 @@ title: "The book of opinions"
 date: "2019-11-04"
 path: "/the-book-of-opinions"
 author: "Jatin"
-excerpt: "When they were kids they were best friends. They would play together, eat together, live together, and grow together. Because this was the dawn of time, they would eat grass and meat alike, they would eat anything and everything."
+excerpt: "The book of opinions is a story about two friends who lived very different lives."
 tags: [stories]
 ---
 

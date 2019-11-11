@@ -9,7 +9,7 @@ Personal Blog - Jatin Rohilla
 - [ ] add more pages with more content
 - [ ] resolve post page navigation button issue
 - [ ] 404 page doesn't work
-- [ ] update package.json
+- [X] update package.json
 
 ## References
 
