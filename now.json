@@ -18,7 +18,7 @@
       "headers": { "cache-control": "public, max-age=0, must-revalidate" }
     }
   ],
-  "alias": "jjwrites",
+  "alias": "jj-writes",
   "github": {
     "silent": true
   },
