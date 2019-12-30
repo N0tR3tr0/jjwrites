@@ -20,7 +20,7 @@
   ],
   "alias": "jj-writes",
   "github": {
-    "silent": true
+    "silent": false
   },
   "builds": [
     { "use": "@now/static-build", "src": "package.json", "config": { "distDir": "public" } }
