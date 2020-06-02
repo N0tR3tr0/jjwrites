@@ -1,3 +1,12 @@
+---
+title: "Siddhartha"
+path: "/siddhartha-by-hermann-hesse"
+date: "2020-06-02"
+author: "Jatin"
+excerpt: "A walk with the one punch man and his take on his strength."
+tags: [learnings, book-reviews]
+---
+
 # Siddhartha
 
 > Completed 30th May, 2020
