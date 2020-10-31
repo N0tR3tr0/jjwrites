@@ -77,7 +77,6 @@ export const postsQuery = graphql`
           excerpt
           frontmatter {
             title
-            date(formatString: "MMMM DD, YYYY")
             path
             author
             excerpt
