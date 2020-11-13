@@ -1,11 +1,13 @@
 ---
-title: "The Art of consistent writing"
-path: "/the-art-of-consistent-writing"
+title: "My struggles with consistent writing"
+path: "/my-struggles-with-consistent-writing"
 date: "2019-10-09"
 author: "Jatin"
 excerpt: "It's been four months since I set up this blog and I haven't published a single post in all this time. Some thoughts on why this happened."
 tags: [meta]
 ---
+
+> Written and Published on 9th October 2019
 
 It's been four months since I set up this blog and I haven't published a single post in all this time. Why did this happen?
 

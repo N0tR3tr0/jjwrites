@@ -7,7 +7,7 @@ excerpt: "LightSpeed is a story about the dilemma helix faced as he was about to
 tags: [stories, duality]
 ---
 
-> Originally written on 8th July 2019, Published on 11th Nov, 2019
+> Originally written on 8th July 2019. Published on 11th Nov 2019
 
 The speedometer read 290 million metres per second.
 That was 2 days ago.
