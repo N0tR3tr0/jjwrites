@@ -7,5 +7,5 @@ excerpt: ""
 tags: [thoughts]
 ---
 
-> Original Motivation from 13th Nov 2020. Published on 15th Nov 2020.
-
+> Original Motivation from 13th Nov 2020. Published on 
+finite goals
