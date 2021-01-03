@@ -8,6 +8,8 @@ excerpt: "Hello World. Let's get started."
 tags: [meta]
 ---
 
+> Written and Published on 9th June 2019
+
 Hello there, howdy?
 
 I've been trying to set up a blog for a long time now. Almost 5 years. Even tried setting up a collaborative blog with friends. But most of them never even got started. We would make id's, set up accounts, perfectly ready to go. Even wrote hello world posts, but most of them never got their second post. Reasons vary.

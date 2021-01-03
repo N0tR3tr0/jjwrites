@@ -1,11 +1,13 @@
 ---
-title: "Being a Role Model - The Hard Parts"
-path: "/being-a-role-mode-the-hard-parts"
+title: "Being a Role Model"
+path: "/being-a-role-model"
 date: "2019-11-01"
 author: "Jatin"
-excerpt: "Being a role model is usually a good thing. You get to inspire people, and that in return boosts your self esteem. This post tries to uncover the other side of the coin."
+excerpt: "Being a role model is usually a good thing. You get to inspire people, and that in return it boosts your self esteem. This post tries to uncover the other side of the coin."
 tags: [thoughts]
 ---
+
+>  Published on 1st Nov 2019
 
 First, let us define a role model. If you have someone who looks up to you, you're a role model. If any of your acts influence someone and their acts, you're a role model. If you respect someone very much, for any of their qualities, they're now a role model for you. The idea is simple. Let's not get into the intricacies of the definition.
 

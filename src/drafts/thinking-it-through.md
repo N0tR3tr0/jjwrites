@@ -7,6 +7,6 @@ excerpt: "Is Overthinking same as thinking it through. Probably not. My take on 
 tags: [thoughts]
 ---
 
-> Original motivation from 28th July 2019. Published on 9th Nov 2019.
+> Original motivation from 28th July 2019. Published on 
 
 Yet to write

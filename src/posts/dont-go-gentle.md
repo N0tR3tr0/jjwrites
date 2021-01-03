@@ -4,7 +4,7 @@ path: "/dont-go-gentle"
 date: "2019-12-30"
 author: "Jatin"
 excerpt: "Don't go gentle into that good night is a very famous poem by Dylan Thomas . You've probably heard it in interstellar."
-tags: [byte-size, poetry, personal]
+tags: [byte-size, motivation]
 ---
 
 > Original motivation from 6th July 2019. Published on 30th Dec 2019.

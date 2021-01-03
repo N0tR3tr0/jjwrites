@@ -7,6 +7,6 @@ excerpt: "A walk with the one punch man and his take on his strength."
 tags: [stories]
 ---
 
-> Originally thought on 26th July 2019. Published on 9th Nov 2019.
+> Originally thought on 26th July 2019. Published on 
 
 i took a walk with him. and he told me his lonliness and shit.

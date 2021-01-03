@@ -87,6 +87,6 @@ Fast forward a few hundred years. The descendents of H & M now fight for power. 
 
 That's pretty much the story.
 
-H & M were best friends at a time, more like brothers. All they had done is they chose different lives, as they should have. They had just gone different ways, lived differently, learned different truths. What they learned, they wrote down. What they lives, what they experienced became their opinions. opinions got mixed with wisdom, became indistinguishable. And over time spread to thousands of followers, who are now unable to distinguish, the truth from the opinion. 
+H & M were best friends at a time, more like brothers. All they had done is they chose different lives, as they should have. They had just gone different ways, lived differently, learned different truths. What they learned, they wrote down. What they lived, what they experienced became their opinions. opinions got mixed with wisdom, became indistinguishable. And over time spread to thousands of followers, who are now unable to distinguish, the truth from the opinion. 
 
 All they do now, is blindly follow and fight over the truth of the book of opinions.

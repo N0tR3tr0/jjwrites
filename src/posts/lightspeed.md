@@ -4,10 +4,10 @@ path: "/lightspeed"
 date: "2019-11-11"
 author: "Jatin"
 excerpt: "LightSpeed is a story about the dilemma helix faced as he was about to run faster than light."
-tags: [stories, duality]
+tags: [stories, dilemma]
 ---
 
-> Originally written on 8th July 2019, Published on 11th Nov, 2019
+> Originally written on 8th July 2019. Published on 11th Nov 2019
 
 The speedometer read 290 million metres per second.
 That was 2 days ago.
