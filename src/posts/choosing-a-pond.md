@@ -1,5 +1,5 @@
 ---
-title: "choosing-a-pond"
+title: "Choosing a pond"
 path: "/choosing-a-pond"
 date: "2020-12-19"
 author: "Jatin"
